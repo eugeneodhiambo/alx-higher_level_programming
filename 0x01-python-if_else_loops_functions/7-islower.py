@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-def slower(c):
+def lower(c):
 
     if ord(c) >= ord('a') and ord(c) <= ord('z'):
 
